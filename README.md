@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Ramiro | Zn0x ✨</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/ramiro-klobuchar-54539726b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ramiklobu66@gmail.com" target="_blank">
@@ -51,7 +51,7 @@
     <h3>📈 Repricing Engine</h3>
     <p align="left">Bot de recotización masiva que extrae variaciones tarifarias, filtra dinámicamente columnas complejas y versiona datos con Git.</p>
     <p align="center">
-      <a href="https://github.com/TU_USUARIO_GITHUB/bot_reprice" target="_blank">
+      <a href="https://github.com/Zn0x/bot_reprice" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
@@ -60,7 +60,7 @@
     <h3>🔗 REST & CRM Sync Pipeline</h3>
     <p align="left">Servicio de sincronización continua consumiendo APIs REST con autenticación segura por tokens, paginación controlada y volcado a Sheets.</p>
     <p align="center">
-      <a href="https://github.com/TU_USUARIO_GITHUB/agencias_api" target="_blank">
+      <a href="https://github.com/Zn0x/agencias_api" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
@@ -76,16 +76,16 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zn0x&theme=radical&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=false&no-bg=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?user=Zn0x&theme=radical&hide_border=false&no-bg=true&layout=compact" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="85%" src="https://github-profile-trophy.vercel.app/?user=TU_USUARIO_GITHUB&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
+    <img width="85%" src="https://github-profile-trophy.vercel.app/?user=Zn0x&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
   </a>
 </div>
