@@ -9,21 +9,19 @@
   </a>
 </p>
 
-<br>
+---
 
-<h2>Sobre mí 👨‍💻</h2>
+### Sobre mí 👨‍💻
 
-<p align="left">
-🎓 <b>Estudiante de Ingeniería en Sistemas de Información</b> en la Universidad Tecnológica Nacional (UTN FRC).<br>
-🤖 <b>Automation & Backend Developer:</b> Especializado en la creación de bots autónomos (RPA), web scraping y pipelines de extracción de datos con <b>Python y Playwright</b>.<br>
-📊 <b>Data Integration:</b> Experiencia procesando y normalizando información con <b>Pandas</b> y sincronizando flujos en tiempo real con <b>Google Cloud APIs / Sheets</b>.<br>
-⚙️ <b>DevOps & CI/CD:</b> Despliegue de scripts desatendidos y automatizaciones programadas mediante <b>GitHub Actions</b>.<br>
-📫 Contacto: <b>ramiklobu66@gmail.com</b>
-</p>
+- 🎓 **Estudiante de Ingeniería en Sistemas de Información** en la Universidad Tecnológica Nacional (UTN FRC).
+- 🤖 **Automation & QA Developer:** Diseño e implementación de bots autónomos (RPA), web scraping dinámico y resolución desatendida de 2FA con **Python y Playwright**.
+- 📊 **Data Pipelines & Integration:** Limpieza, normalización y tratamiento de estructuras de datos tabulares con **Pandas** y sincronización en la nube con **Google Cloud APIs (Sheets)**.
+- ⚙️ **DevOps & CI/CD:** Orquestación y ejecución de scripts desatendidos mediante flujos programados en **GitHub Actions**.
+- 📫 Contacto: **ramiklobu66@gmail.com**
 
-<br>
+---
 
-<h2>Tecnologías & Herramientas 🛠️</h2>
+### Tecnologías & Herramientas 🛠️
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,47 +29,45 @@
   </a>
 </p>
 
-<br>
+---
 
-<div id="proyectos">
-<h2>Proyectos Destacados 🚀</h2>
+### Proyectos Destacados 🚀
 
-<table align="left" width="100%">
+<table>
 <tr>
   <td width="33%" align="center" valign="top">
-    <h3>🤖 Booking Automation Bot</h3>
-    <p align="left">Pipeline desatendido con Playwright para extracción web, resolución automática de 2FA vía IMAP y actualización directa a Google Sheets.</p>
+    <h4>🤖 Booking Automation Engine</h4>
+    <p align="left">Pipeline RPA desatendido con Playwright para navegación profunda, resolución automatizada de tokens 2FA por IMAP y sincronización en la nube.</p>
     <p align="center">
-      <a href="https://github.com/TU_USUARIO_GITHUB/bot-reservas" target="_blank">
+      <a href="https://github.com/Zn0x/booking-automation-engine" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
   </td>
   <td width="33%" align="center" valign="top">
-    <h3>📈 Repricing Engine</h3>
-    <p align="left">Bot de recotización masiva que extrae variaciones tarifarias, filtra dinámicamente columnas complejas y versiona datos con Git.</p>
+    <h4>📈 Dynamic Pricing Scraper</h4>
+    <p align="left">Pipeline analítico con interacción dinámica del DOM, tratamiento de datasets con Pandas, tipado numérico y exportación programada.</p>
     <p align="center">
-      <a href="https://github.com/Zn0x/bot_reprice" target="_blank">
+      <a href="https://github.com/Zn0x/dynamic-pricing-scraper" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
   </td>
   <td width="33%" align="center" valign="top">
-    <h3>🔗 REST & CRM Sync Pipeline</h3>
-    <p align="left">Servicio de sincronización continua consumiendo APIs REST con autenticación segura por tokens, paginación controlada y volcado a Sheets.</p>
+    <h4>🔄 CRM Sheets Sync Pipeline</h4>
+    <p align="left">Pipeline ETL serverless que consume APIs RESTful con autenticación por token, paginación iterativa por cursor y carga atómica en Google Sheets.</p>
     <p align="center">
-      <a href="https://github.com/Zn0x/agencias_api" target="_blank">
+      <a href="https://github.com/Zn0x/crm-sheets-sync-pipeline" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
       </a>
     </p>
   </td>
 </tr>
 </table>
-</div>
 
-<br><br><br><br><br><br><br><br>
+---
 
-<h2>GitHub Stats 📊</h2>
+### GitHub Stats 📊
 
 <table align="center" width="100%">
   <tr>
