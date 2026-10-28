@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Ramiro | Zn0x ✨</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ramiro-klobuchar-54539726b" target="_blank">
+  <a href="https://linkedin.com/in/maximo-ramiro-klobuchar-alessi-54539726b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ramiklobu66@gmail.com" target="_blank">
@@ -67,19 +67,15 @@
 
 ---
 
-### GitHub Stats 📊
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zn0x&theme=radical&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=Zn0x&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+### GitHub Activity & Focus 📊
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zn0x&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zn0x&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Playwright%20%7C%20RPA-14b8a6?style=flat-square&logo=playwright&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Data%20Ops-Pandas%20%7C%20ETL-0284c7?style=flat-square&logo=pandas&logoColor=white" alt="Data" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-8b5cf6?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square" alt="Status" />
 </p>
