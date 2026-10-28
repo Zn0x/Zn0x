@@ -75,13 +75,11 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zn0x&theme=radical&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?user=Zn0x&theme=radical&hide_border=false&no-bg=true&layout=compact" alt="Top Langs" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Zn0x&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="85%" src="https://github-profile-trophy.vercel.app/?user=Zn0x&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zn0x&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
